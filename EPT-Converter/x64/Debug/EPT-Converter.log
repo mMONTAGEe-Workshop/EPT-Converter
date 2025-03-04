@@ -1,0 +1,9 @@
+﻿  EPT-Converter.cpp
+C:\Users\david\Documents\EPT-Converter\EPT-Converter\EPT-Converter.cpp(30,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Documents\EPT-Converter\EPT-Converter\EPT-Converter.cpp(40,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Documents\EPT-Converter\EPT-Converter\EPT-Converter.cpp(50,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Documents\EPT-Converter\EPT-Converter\EPT-Converter.cpp(60,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Documents\EPT-Converter\EPT-Converter\EPT-Converter.cpp(70,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\Documents\EPT-Converter\EPT-Converter\EPT-Converter.cpp(11,8): warning C4101: 'EPTTime': unreferenced local variable
+C:\Users\david\Documents\EPT-Converter\EPT-Converter\EPT-Converter.cpp(10,8): warning C4101: 'SITime': unreferenced local variable
+  EPT-Converter.vcxproj -> C:\Users\david\Documents\EPT-Converter\x64\Debug\EPT-Converter.exe
